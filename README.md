@@ -13,10 +13,6 @@ Currently building things for students and communities.
 * LinkedIn — https://www.linkedin.com/in/yash-g-3322b9253/
 * Email — [yashraj.02594656@gmail.com](mailto:yashraj.02594656@gmail.com)
 
-## Books I Enjoy Reading
-
-I enjoy reading books about psychology, philosophy, and self-improvement.
-
 Some books I’ve read:
 
 * The 48 Laws of Power
@@ -30,5 +26,4 @@ Some books I’ve read:
 * Atomic Habits
 * Make Your First Million
 * The Subtle Art of Not Giving a F*ck
-
 …and more.
