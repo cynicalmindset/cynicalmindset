@@ -9,7 +9,7 @@ Currently building things for students and communities.
 
 ## Connect With Me
 
-* Portfolio — coming soon
+* Portfolio — https://elbaf.vercel.app/
 * LinkedIn — https://www.linkedin.com/in/yash-g-3322b9253/
 * Email — [yashraj.02594656@gmail.com](mailto:yashraj.02594656@gmail.com)
 
